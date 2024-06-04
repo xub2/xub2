@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D5996&title_bg=%230C166C&icon=&icon_color=%23092E84&title=hits&edge_flat=false)](https://github.com/xub2)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.notion.so%2Fxuv2%2F)
+
 
 <!--
 **xub2/xub2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
