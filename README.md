@@ -22,16 +22,17 @@ Here are some ideas to get you started:
 
 ### [Tech]
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-181717?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Springboot-336F19?style=for-the-badge&logo=Springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-A2A99F?style=for-the-badge&logo=SQL&logoColor=white">
+  
 
 ### [LEARNING]
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Html-3776AB?style=for-the-badge&logo=Html&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-ECBE35?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F58F27?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-80ED50?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Springboot-336F19?style=for-the-badge&logo=Springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-A2A99F?style=for-the-badge&logo=SQL&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-181717?style=for-the-badge&logo=dart&logoColor=white">
   
