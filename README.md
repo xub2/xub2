@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-336F19?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-A2A99F?style=for-the-badge&logo=SQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-ECBE35?style=for-the-badge&logo=Linux&logoColor=white">
+
   
 
 ### [LEARNING]
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-F58F27?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-80ED50?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/dart-181717?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-ECBE35?style=for-the-badge&logo=Linux&logoColor=white">
   
