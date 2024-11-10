@@ -1,5 +1,5 @@
-## ⚡The merit of an action lies in finishing it to the end. – Genghis Khan  
-#### 행동의 가치는 그 행동을 끝까지 이루는데 있다
+## Muchas Gracias Afición Esto Es Para Vosotros SIUUUUU
+### 대단히 감사합니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxub2%2Fhit-counter&count_bg=%233D5996&title_bg=%23555555&icon=&icon_color=%23092E84&title=hits&edge_flat=false)](https://github.com/xub2)
 
