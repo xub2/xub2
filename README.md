@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### [Contact]
+Email : yoxup.lim@gmail.com
+
+
 
 ### [Tech]
 <p>
@@ -23,5 +27,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-336F19?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-336F19?style=for-the-badge&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-A2A99F?style=for-the-badge&logo=mySQL&logoColor=white">
+</p>
 
   
