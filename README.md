@@ -1,7 +1,4 @@
 
-
-<a href="https://xuv2.notion.site/"><img src="https://img.shields.io/badge/Notion-00148C?style=badge&logo=notion&logoColor=white"/></a> <a href="https://bdisappointed.tistory.com/"><img src="https://img.shields.io/badge/Tistory-00148C?style=badge&logo=tistory&logoColor=white"/></a>
-
 <!--
 **xub2/xub2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
