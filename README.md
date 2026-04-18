@@ -1,29 +1,21 @@
-
-<!--
-**xub2/xub2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### [Contact]
+### Contact
+ 
 Email : yoxup.lim@gmail.com
 
+---
+ 
+### Tech Stack
+ 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+ 
+---
 
-
-### [Tech]
-<p>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-336F19?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-336F19?style=for-the-badge&logo=Springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-A2A99F?style=for-the-badge&logo=mySQL&logoColor=white">
-</p>
-
-  
+ 
