@@ -1,4 +1,6 @@
-## Hello, I'm Yosup Lim and I'm preparing to get a job as a back-end developer
+## Hello, I'm Yosup Lim 
+- I'm preparing to get a job as a back-end developer
+  
 ### Contact
  
 Email : yoxup.lim@gmail.com
