@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Hello, I'm Yosup Lim 
 - I'm preparing to get a job as a backend developer.
-- I am mainly developing Java / Spring based server applications.
+- I am mainly developing Java / Spring based applications.
 ---
 
 ### 📎 Portfolio & Resume
