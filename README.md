@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Hello, I'm Yosup Lim 
-- I'm preparing to get a job as a backend developer.
-- I am mainly developing Java / Spring based applications.
+- 안녕하세요, 신입 백엔드 개발자 xub2 입니다.
+- Java / Spring 기반의 애플리케이션을 주력으로 개발하고 있습니다.
 ---
 
 ### 📎 Portfolio & Resume
