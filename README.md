@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hello, I'm Yosup Lim 
+## xub2의 개발세발 🐾
 
 ### 📎 Portfolio & Resume
 Link : https://xub2.github.io/
